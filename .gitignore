@@ -1,0 +1,16 @@
+# Local agent guidance — not part of the site
+CLAUDE.md
+
+# Source resume (kept out of git); the hosted copy lives in assets/
+/sarthak_DevOps_4yrs.pdf
+*.pdf
+!assets/*.pdf
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.vscode/
+.idea/
+.claude/
